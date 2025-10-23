@@ -5,7 +5,7 @@
 <h1 align="center">Shopana.io</h1>
 
 <p align="center" style="width: 80%;margin: 0 auto;">
-  <em><strong>Open commerce ecosystem — helping developers and merchants connect systems, sync data, and build scalable commerce solutions faster.</strong></em>
+  <em><strong>Open commerce ecosystem — connect, sync, and scale.</strong></em>
 </p>
 
 <br />
