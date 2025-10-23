@@ -1,19 +1,28 @@
 <p align="center">
-  <img src="assets/logo-green-shop.png" alt="Shopana.io logo" width="100" />
+  <img src="assets/logo-green-shop.png" alt="Shopana.io logo" width="160" />
 </p>
 
-**Shopana.io** centralizes inventory for modern commerce, syncing popular CMS and marketplace stacks in real time with unified analytics.
+<h1 align="center">Shopana.io</h1>
 
-**What we ship**
+<p align="center"><strong>Unified inventory, automation, and analytics for every connected storefront.</strong></p>
+
+---
+
+### ⚡ Platform Highlights
 - Cross-channel inventory and order orchestration for Shopify, WooCommerce, Magento, Amazon, Etsy, and more.
-- Automation playbooks for stock allocation, smart fulfillment routing, and vendor triggers.
-- Unified analytics for every connected storefront, from demand forecasts to SKU-level performance.
-- Unified analytics for every connected storefront, from demand forecasts to SKU-level performance.
-- Open-source storefront widgets—checkout, reviews, ML-ranked search, and add-ons—built to be pluggable out of the box.
+- Automation playbooks covering stock allocation, smart fulfillment routing, and vendor triggers.
+- Unified analytics across all integrations, from demand forecasts to SKU-level performance.
 
-![Shopana analytics illustration](assets/shopana-illustration.png)
+### 🧩 Storefront Widgets
+- Checkout (flagship), reviews, ML-ranked search, and add-ons delivered as open-source, pluggable widgets.
 
-**Build with us**
+<p align="center">
+  <img src="assets/shopana-illustration.png" alt="Shopana analytics illustration" width="300" />
+</p>
+
+---
+
+### 🤝 Build With Us
 - Web: shopana.io
 - Email: hello@shopana.io
 - GitHub Discussions: github.com/orgs/shopana-io/discussions
