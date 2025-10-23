@@ -10,10 +10,12 @@
 
 ### 🚀 Platform Highlights
 
-**Multi-channel sync** — connect Shopify, WooCommerce, OpenCart, and custom APIs.
-**Smart operations** — manage orders, fulfillment, and shipping in one place.
-**Real-time insights** — get unified analytics and live data streams.
-**Open SDKs** — plug-and-play UI widgets (Checkout, Reviews, RankedML Search) for any storefront.
+<p>
+  <strong>Multi-channel sync</strong> — connect Shopify, WooCommerce, OpenCart, and custom APIs.<br>
+  <strong>Smart operations</strong> — manage orders, fulfillment, and shipping in one place.<br>
+  <strong>Real-time insights</strong> — get unified analytics and live data streams.<br>
+  <strong>Open SDKs</strong> — plug-and-play UI widgets (Checkout, Reviews, RankedML Search) for any storefront.
+</p>
 
 <p align="center">
   <img src="assets/shopana-illustration.png" alt="Shopana analytics illustration" width="260" />
