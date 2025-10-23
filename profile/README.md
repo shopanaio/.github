@@ -4,24 +4,16 @@
 
 <h1 align="center">Shopana.io</h1>
 
-<p align="center"><strong>Unified inventory, automation, and analytics for every connected storefront.</strong></p>
+<p align="center"><strong>Unified inventory, automation, and analytics for every storefront you run.</strong></p>
 
-### ⚡ Platform Highlights
-
-- Cross-channel inventory and order orchestration for Shopify, WooCommerce, Magento, Amazon, Etsy, and more.
-- Automation playbooks covering stock allocation, smart fulfillment routing, and vendor triggers.
-- Unified analytics across all integrations, from demand forecasts to SKU-level performance.
-
-### 🧩 Storefront Widgets
-
-- Checkout, reviews, ML-ranked search, and add-ons delivered as open-source, pluggable widgets.
+### ⚙️ Platform Highlights
+- Cross-channel inventory sync for Shopify, WooCommerce, Magento, Amazon, Etsy, and beyond.
+- Automation playbooks and unified analytics—from real-time demand signals to SKU-level actions.
+- Checkout, reviews, ML-ranked search, and add-ons delivered as open-source, drop-in widgets.
 
 <p align="center">
-  <img src="assets/shopana-illustration.png" alt="Shopana analytics illustration" width="300" />
+  <img src="assets/shopana-illustration.png" alt="Shopana analytics illustration" width="260" />
 </p>
 
 ### 🤝 Build With Us
-
-- Web: https://shopana.io
-- Email: hello@shopana.io
-- GitHub Discussions: github.com/orgs/shopana-io/discussions
+- Visit <https://shopana.io>
