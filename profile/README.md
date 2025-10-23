@@ -6,7 +6,6 @@
 
 <p align="center"><strong>Unified inventory, automation, and analytics for every connected storefront.</strong></p>
 
----
 
 ### ⚡ Platform Highlights
 - Cross-channel inventory and order orchestration for Shopify, WooCommerce, Magento, Amazon, Etsy, and more.
@@ -14,7 +13,7 @@
 - Unified analytics across all integrations, from demand forecasts to SKU-level performance.
 
 ### 🧩 Storefront Widgets
-- Checkout (flagship), reviews, ML-ranked search, and add-ons delivered as open-source, pluggable widgets.
+- Checkout, reviews, ML-ranked search, and add-ons delivered as open-source, pluggable widgets.
 
 <p align="center">
   <img src="assets/shopana-illustration.png" alt="Shopana analytics illustration" width="300" />
