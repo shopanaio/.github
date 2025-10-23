@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/logo-green-shop.png" alt="Shopana.io logo" width="100" />
-</p>
+<div align="center">
+  <img src="assets/logo-green-shop.png" alt="Shopana.io logo" width="140" />
+</div>
 
 <h1 align="center">Shopana.io</h1>
 
