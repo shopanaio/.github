@@ -2,7 +2,7 @@
   <img src="assets/shopana-illustration.png" alt="Shopana analytics illustration" width="400" />
 </p>
 
-## 🚀 Build. Connect. Scale.
+## 🚀 Unified Commerce Platform
 
 Shopana provides a unified platform for modern commerce — connecting Shopify, WooCommerce, OpenCart, and custom APIs to keep your inventory in sync across channels. It helps manage orders, fulfillment, and shipping from one place, delivers real-time analytics and insights, and offers open SDKs with plug-and-play UI widgets like Checkout, Reviews, and RankedML Search for any storefront.
 
