@@ -1,29 +1,12 @@
-<div align="center">
-  <img src="assets/logo-green-shop.png" alt="Shopana.io logo" width="140" />
-</div>
-
-<h1 align="center">Shopana.io</h1>
-
-<p align="center" style="width: 80%;margin: 0 auto;">
-  <em><strong>Open commerce ecosystem — connect, sync, and scale.</strong></em>
-</p>
-
-<br />
-
-### 🚀 Platform Highlights
-
-<p>
-  <strong>Multi-channel sync</strong> — connect Shopify, WooCommerce, OpenCart, and custom APIs.<br>
-  <strong>Smart operations</strong> — manage orders, fulfillment, and shipping in one place.<br>
-  <strong>Real-time insights</strong> — get unified analytics and live data streams.<br>
-  <strong>Open SDKs</strong> — plug-and-play UI widgets (Checkout, Reviews, RankedML Search) for any storefront.
-</p>
-
 <p align="center">
-  <img src="assets/shopana-illustration.png" alt="Shopana analytics illustration" width="260" />
+  <img src="assets/shopana-illustration.png" alt="Shopana analytics illustration" width="500" />
 </p>
 
-### 🧩 Build With Us
+## 🚀 Build. Connect. Scale.
+
+Shopana provides a unified platform for modern commerce — connecting Shopify, WooCommerce, OpenCart, and custom APIs to keep your inventory in sync across channels. It helps manage orders, fulfillment, and shipping from one place, delivers real-time analytics and insights, and offers open SDKs with plug-and-play UI widgets like Checkout, Reviews, and RankedML Search for any storefront.
+
+## 🧩 Build With Us
 
 Join our open developer community — build integrations, contribute plugins, or extend Shopana’s SDKs.
 
