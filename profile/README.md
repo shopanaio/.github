@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/shopana-illustration.png" alt="Shopana analytics illustration" width="500" />
+  <img src="assets/shopana-illustration.png" alt="Shopana analytics illustration" width="400" />
 </p>
 
 ## 🚀 Build. Connect. Scale.
